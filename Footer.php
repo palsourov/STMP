@@ -22,23 +22,23 @@
       <ul class="footer_links ">
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href="" style='color:white;' >Home</a>
+        <a href=""  >Home</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href=""    style='color:white;'   >About Us</a>
+        <a href=""  >About Us</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href=""   style='color:white;' >Food</a>
+        <a href=""  >Food</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href="" style='color:white;'   >Contact</a>
+        <a href=""  >Contact</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href="" style='color:white;'   >Login</a>
+        <a href=""  >Login</a>
         </li>
       </ul>
     </div>
@@ -48,23 +48,23 @@
       <ul class="footer_links">
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href="" style='color:white;'>Home</a>
+        <a href=""'>Home</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href=" "    style='color:white;'   >About Us</a>
+        <a href=" "      >About Us</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href=""   style='color:white;' >Food</a>
+        <a href="" >Food</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href="" style='color:white;'   >Contact</a>
+        <a href=""   >Contact</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href="" style='color:white;'   >Login</a>
+        <a href="" >Login</a>
         </li>
       </ul>
     </div>
