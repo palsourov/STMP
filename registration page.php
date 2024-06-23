@@ -1,3 +1,6 @@
+<?php 
+   require_once("Header.php")
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,3 +96,6 @@
     </script>
 </body>
 </html>
+<?php 
+   require_once("Footer.php")
+?>
