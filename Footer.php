@@ -48,7 +48,7 @@
       <ul class="footer_links">
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
-        <a href=""'>Home</a>
+        <a href="">Home</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:white;' ></i>
