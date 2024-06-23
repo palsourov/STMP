@@ -10,21 +10,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.delish.com%2Ffood-news%2Fg35491104%2Flittle-known-facts-food-court-restaurants%2F&psig=AOvVaw1A-tLDJGxzP82k0ITluT5I&ust=1719210935964000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDogvyN8YYDFQAAAAAdAAAAABAEg" class="d-block w-100 "style=" height: 350px; margin-top:70px " alt="...">
+      <img src="https://www.rongininterior.com/images/functional-food-court-design.jpg" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to our project</h5>
        
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-    <img src="https://t3.ftcdn.net/jpg/02/52/38/80/360_F_252388016_KjPnB9vglSCuUJAumCDNbmMzGdzPAucK.jpg" class="d-block w-100 "style=" height: 350px; margin-top:70px " alt="...">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyqMDbD-F_2p_nm6eVXod7oidoN8StrTQ3EHYz1uewKhfb3mfq8tLAXccwRlNICXQ_O4&usqp=CAU" alt="...">
 
       <div class="carousel-caption d-none d-md-block">
        
       </div>
     </div>
     <div class="carousel-item">
-    <img src="https://t3.ftcdn.net/jpg/02/52/38/80/360_F_252388016_KjPnB9vglSCuUJAumCDNbmMzGdzPAucK.jpg" class="d-block w-100 "style=" height: 350px; margin-top:70px " alt="...">
+    <img src=" https://img.restaurantguru.com/r366-interior-Empire-Tower-Food-Court.jpg" alt="...">
 
       <div class="carousel-caption d-none d-md-block">
         
