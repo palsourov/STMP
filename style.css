@@ -73,7 +73,7 @@ body {
 /* registration page start*/
 body .loginform{
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  background-color: #3a3ad2;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -81,7 +81,7 @@ body .loginform{
   margin: 0;
 }
 .loginform .container{
-  background-color: #fff;
+  background-color: #3a3ad2;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
