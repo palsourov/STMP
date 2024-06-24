@@ -74,10 +74,8 @@ body {
 
 /*banner slider start*/
 
-
-
-.slider img{
- 
+.carousel-item img{
+  height: 80vh;
   width: 100%;
  
 }
