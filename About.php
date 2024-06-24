@@ -31,7 +31,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src= class="d-block w-100" alt="...">
+            <img src="https://stock.adobe.com/images/interior-of-modern-restaurant/709992219" class="d-block w-100" alt="...">
 
             <div class="carousel-caption  ">
                 <h1 >ABOUT-US</h1>
