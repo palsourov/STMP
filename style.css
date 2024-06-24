@@ -132,8 +132,8 @@ body .loginform{
 
 
 
-.slider img{
- 
+.carousel-item img{
+  height: 95vh;
   width: 100%;
  
 }
@@ -157,4 +157,44 @@ body .loginform{
   width: 45%;
   margin: auto;
 
+}
+section{
+  height: 95vh;
+  width: 100%;
+
+}
+.story{
+  background-image: url(https://themewagon.github.io/pato/images/icons/pattern2.png);
+}
+.story span {
+  font-style:italic;
+  font-size: 25px;
+  letter-spacing: 1.5px;
+  font-weight: 500;
+ 
+}
+.story h1{
+  font-style:italic;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: 3px;
+ 
+}
+.story .t-center{
+  margin-left: 22%;
+  margin-right: 20%;
+
+}
+.btn button{
+  height: 50px;
+  width: 150px;
+  border: none;
+  background-color: rgb(232, 104, 54);
+  color: #fff;
+  font-size: 18px;
+  border-radius: 80px;
+}
+.btn button:hover{
+  color: #dbd4d4c2;
+  transition: 0.2s;
 }

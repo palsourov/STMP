@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php  
      require_once("Header.php");
 ?>
@@ -12,10 +12,9 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
 
-          <div class="slider">
+          
           <img src="https://t3.ftcdn.net/jpg/07/94/56/88/240_F_794568822_cTjKycU1DRATl19nBfIGPKcBviHllUFD.jpg" class="d-block w-100" alt="...">
 
-          </div>
           
 
             <div class="carousel-caption">
@@ -50,7 +49,29 @@
         </button>
       </div>
 
-      <!--banner slider end--!
+      <!--banner slider end-->
+
+      <!--story section start-->
+
+      <section class="story ">
+        <div class="container text-center py-5 ">
+            <div data-aos="fade-up" >
+                <span  class="  text-danger">Bangladeshi Restaurant</span>
+                <h1 data-aos="fade-up" class="py-3">OUR STORY</h1>
+                <p data-aos="fade-up" class="t-center">
+                  Situated in the vibrant community of Sylhet, SRMP has been a cornerstone of authentic Sylheti cuisine since its inception. Known for its flavorful dishes and warm ambiance, SRMP captures the essence of Sylhet’s rich culinary traditions.
+                   SRMP was founded in 1995 by Rashid Ahmed, a devoted chef with a passion for sharing the distinctive flavors of Sylhet with locals and visitors alike. Inspired by the rich culinary heritage of his hometown, Rashid envisioned a place where people could savor traditional Sylheti dishes made from time-honored recipes.
+                </p>
+                <div class="btn">
+                  <button data-aos="fade-up">Read More</button>
+                </div>
+            </div>
+        </div>
+      </section>
+
+      <!--story section  end-->
+
+
 
 
 
@@ -59,5 +80,5 @@
 <?php  
      require_once("Footer.php");
 ?>
-=======
->>>>>>> 223eab800c1f4148bfb0c2525e60a9ddf9ad577f
+
+
