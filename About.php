@@ -23,7 +23,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://t4.ftcdn.net/jpg/05/83/90/17/240_F_583901767_l0ZxyLupe4NHbNnLeEuTK35AvC2Ccu26.jpg" class="d-block w-100" alt="...">
+            <img src= "https://t3.ftcdn.net/jpg/07/52/70/26/240_F_752702693_UcYNYcWgDY5fEwG3xN7j5iwFIPQGC3jx.jpg" class="d-block w-100" alt="...">
 
             <div class="carousel-caption">
                 <h1  >ABOUT-US</h1>
