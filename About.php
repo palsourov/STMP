@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php  
      require_once("Header.php");
 ?>
@@ -58,3 +59,5 @@
 <?php  
      require_once("Footer.php");
 ?>
+=======
+>>>>>>> 223eab800c1f4148bfb0c2525e60a9ddf9ad577f
