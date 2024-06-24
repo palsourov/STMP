@@ -75,7 +75,7 @@ body {
 /*banner slider start*/
 
 .carousel-item img{
-  height: 80vh;
+  height: 95vh;
   width: 100%;
  
 }
@@ -102,6 +102,8 @@ body {
 }
 
 /*banner slider end*/
+
+/*story section start*/
 
 section{
   height: 95vh;
@@ -143,6 +145,6 @@ section{
   color: #dbd4d4c2;
   transition: 0.2s;
 }
-
+/*story section end*/
 
 
