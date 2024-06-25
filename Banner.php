@@ -10,24 +10,28 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="https://www.rongininterior.com/images/functional-food-court-design.jpg" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Welcome to our project</h5>
+
+         <img src="https://img.freepik.com/free-photo/restaurant-interior_1127-3394.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719187200&semt=sph" alt="">
+         <div class="carousel-caption d-none d-md-block">
+          <h1 class="head">WELCOME</h1>
        
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyqMDbD-F_2p_nm6eVXod7oidoN8StrTQ3EHYz1uewKhfb3mfq8tLAXccwRlNICXQ_O4&usqp=CAU" alt="...">
+    
+    <img src="https://t3.ftcdn.net/jpg/02/05/87/60/360_F_205876015_hYYs7ugqoU8QAobSS3TbnGQ92qyS5gEc.jpg" alt="">
+
 
       <div class="carousel-caption d-none d-md-block">
-       
+      <h1 class="head">WELCOME</h1>
       </div>
     </div>
     <div class="carousel-item">
-    <img src=" https://img.restaurantguru.com/r366-interior-Empire-Tower-Food-Court.jpg" alt="...">
-
+    
+       <img src="https://static.vecteezy.com/system/resources/thumbnails/022/576/369/small_2x/image-of-wooden-table-in-front-of-abstract-blurred-background-of-resturant-lights-wood-table-top-on-blur-of-lighting-in-night-cafe-restaurant-background-selective-focus-generative-ai-photo.jpg" alt="">
+ 
       <div class="carousel-caption d-none d-md-block">
-        
+      <h1 class="head">WELCOME</h1>
       </div>
     </div>
   </div>
