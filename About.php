@@ -13,8 +13,7 @@
           <div class="carousel-item active">
 
           
-          <img src= "https://t4.ftcdn.net/jpg/07/02/41/65/240_F_702416526_aKPTOYvulTw48bEEH8CxHlabQyqvrnId.jpg" class="d-block w-100" alt="...">
-
+          <img src="https://img.freepik.com/premium-photo/abstract-blur-cafe-restaurant-background_1339-111485.jpg">
           
 
             <div class="carousel-caption">
@@ -23,15 +22,14 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src= "https://stock.adobe.com/images/wood-table-top-with-blur-of-people-in-coffee-shop-or-cafe-restaurant-background/203750178" class="d-block w-100" alt="...">
-
+          <img src="https://t3.ftcdn.net/jpg/07/02/29/50/240_F_702295022_oCDifIWL6FcZgqfJbmL88gRqOozUR7WH.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption">
                 <h1  >ABOUT-US</h1>
                 <hr class="h">
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://stock.adobe.com/images/interior-of-modern-restaurant/709992219" class="d-block w-100" alt="...">
+          <img src= "https://t3.ftcdn.net/jpg/07/94/56/88/240_F_794568822_cTjKycU1DRATl19nBfIGPKcBviHllUFD.jpg" class="d-block w-100" alt="...">
 
             <div class="carousel-caption  ">
                 <h1 >ABOUT-US</h1>
