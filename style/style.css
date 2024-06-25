@@ -76,6 +76,10 @@ body {
 
 /*banner slider start*/
 
+.head{
+  color: white; 
+}
+
 .carousel-item img {
   height: 100vh;
   width: 100%;
