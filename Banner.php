@@ -11,7 +11,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
 
-         <img src="https://thumbs.wbm.im/pw/small/ad06e04a2c3558c6224f06ca8a382559.jpg" alt="">
+         <img src="https://img.freepik.com/free-photo/restaurant-interior_1127-3394.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719187200&semt=sph" alt="">
          <div class="carousel-caption d-none d-md-block">
           <h1 class="head">WELCOME</h1>
        
@@ -19,7 +19,7 @@
     </div>
     <div class="carousel-item" data-bs-interval="2000">
     
-       <img src="https://us.123rf.com/450wm/pitinan/pitinan2308/pitinan230810953/210722218-il-piano-del-tavolo-vuoto-in-legno-con-lo-sfondo-sfocato-dell-immagine-ai-generativa-aig30-di-un.jpg?ver=6" alt="">
+    <img src="https://t3.ftcdn.net/jpg/02/05/87/60/360_F_205876015_hYYs7ugqoU8QAobSS3TbnGQ92qyS5gEc.jpg" alt="">
 
 
       <div class="carousel-caption d-none d-md-block">
@@ -28,7 +28,7 @@
     </div>
     <div class="carousel-item">
     
-       <img src="https://t4.ftcdn.net/jpg/06/89/61/57/240_F_689615713_KrhjefvS756u9HRZ05siTaVQ3pxxifD9.jpg" alt="">
+       <img src="https://static.vecteezy.com/system/resources/thumbnails/022/576/369/small_2x/image-of-wooden-table-in-front-of-abstract-blurred-background-of-resturant-lights-wood-table-top-on-blur-of-lighting-in-night-cafe-restaurant-background-selective-focus-generative-ai-photo.jpg" alt="">
  
       <div class="carousel-caption d-none d-md-block">
       <h1 class="head">WELCOME</h1>
