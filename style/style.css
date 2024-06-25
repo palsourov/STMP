@@ -71,64 +71,56 @@ body {
 
 /*footer end*/
 
-
 /*banner slider start*/
 
-.carousel-item img{
+.carousel-item img {
   height: 95vh;
   width: 100%;
- 
 }
-.carousel-caption{
+.carousel-caption {
   text-align: center;
   margin-bottom: 180px;
   z-index: 2;
 }
-.carousel-caption h1{
+.carousel-caption h1 {
   font-size: 54px;
   letter-spacing: 4px;
   font-weight: 795;
   text-shadow: 1px 5px 5px rgb(220, 95, 18);
 }
-.carousel-caption h1:hover{
-  text-shadow: 5px  4px 5px rgb(238, 48, 14);
+.carousel-caption h1:hover {
+  text-shadow: 5px 4px 5px rgb(238, 48, 14);
   font-weight: 798;
-
 }
-.carousel-caption .h{
+.carousel-caption .h {
   width: 40%;
   margin: auto;
   border-bottom: 6px solid rgb(241, 169, 26);
-
 }
-section{
+section {
   height: 95vh;
   width: 100%;
-
 }
-.story{
+.story {
   background-image: url(https://themewagon.github.io/pato/images/icons/pattern2.png);
 }
 .story span {
-  font-style:italic;
+  font-style: italic;
   font-size: 25px;
   letter-spacing: 1.5px;
   font-weight: 500;
- 
 }
-.story h1{
-  font-style:italic;
+.story h1 {
+  font-style: italic;
   font-size: 42px;
   font-weight: bold;
   letter-spacing: 3px;
- 
 }
-.story .t-center{
+.story .t-center {
   margin-left: 22%;
   margin-right: 20%;
-
 }
-.btn button{
+.btn button {
   height: 50px;
   width: 150px;
   border: none;
@@ -139,9 +131,71 @@ section{
 
   margin-left: -20px;
 }
-.btn button:hover{
+.btn button:hover {
   color: #dbd4d4c2;
   transition: 0.2s;
-  outline:none;
+  outline: none;
   border: none;
 }
+/* registration_page start */
+.loginform {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f1f1f1;
+  height: 100vh;
+  width: 100%;
+}
+.loginform .container {
+  width: 40%;
+  height: 80vh;
+  background: #fff;
+  margin-top: 3.5rem;
+  padding: 1.5rem;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+.loginform h3 {
+  text-align: center;
+  /* background: linear-gradient(#808080, #3fada8); */
+  font-family: arial;
+  font-weight: bold;
+  color: #333;
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+}
+#registrationForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: auto;
+  width: 70%;
+}
+
+.formInput input {
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+  font-size: 1rem;
+  width: 100%;
+  border: 1px solid silver;
+}
+.register {
+  padding: 0.5rem;
+  font-size: 1.25rem;
+  width: 120px;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  background: #27a327;
+  /* background: linear-gradient(#34e89e, #0f3443); */
+  /* background: linear-gradient(#56ab2f, #a8e063); */
+
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s;
+  margin: auto;
+  font-size: 16px;
+}
+.register:hover {
+  box-shadow: 0 -5px 8px rgba(0, 0, 0, 0.3);
+}
+/* registration_page end */
