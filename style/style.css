@@ -16,16 +16,16 @@ body {
 }
 
 .navbar {
-  background: #00406c;
+  background: rgba(220, 95, 18, 0.46);
 }
 .dropdown-menu {
-  background: #00406c;
+  background:rgba(220, 95, 18, 0.46);
 }
 .logo {
   font-size: 30px;
   color: white;
 }
-.btn {
+.btn{
   font-size: 20px;
   width: 110px;
   height: 42px;
@@ -43,13 +43,13 @@ body {
   margin: 10px;
 }
 #navbarSupportedContent a:hover {
-  color: black;
+   color: orange;
 }
 /*header end*/
 
 /*footer start*/
 .footer {
-  background: #00406c;
+  background: rgb(232, 154, 10);
   line-height: 30px;
   margin-top: 380px;
 }
@@ -62,7 +62,7 @@ body {
   color: white;
 }
 .footer li a:hover {
-  color: orange;
+  color:rgb(75, 75, 75);
 }
 .col-md-3 h4 {
   border-bottom: 1px solid white;
@@ -74,7 +74,7 @@ body {
 /*banner slider start*/
 
 .carousel-item img {
-  height: 95vh;
+  height: 100vh;
   width: 100%;
 }
 .head{
@@ -124,7 +124,7 @@ section {
   margin-left: 22%;
   margin-right: 20%;
 }
-.btn button {
+.bt button {
   height: 50px;
   width: 150px;
   border: none;
@@ -135,7 +135,7 @@ section {
 
   margin-left: -20px;
 }
-.btn button:hover {
+.bt button:hover {
   color: #dbd4d4c2;
   transition: 0.2s;
   outline: none;
