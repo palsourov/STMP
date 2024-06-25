@@ -75,7 +75,7 @@ body {
 /*banner slider start*/
 
 .carousel-item img{
-  height: 95vh;
+  height: 85vh;
   width: 100%;
  
 }
@@ -137,6 +137,7 @@ section{
   font-size: 18px;
   border-radius: 80px;
 
+  margin-left: -20px;
 }
 .btn button:hover{
   color: #dbd4d4c2;
