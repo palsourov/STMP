@@ -23,7 +23,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src= "https://stock.adobe.com/images/wood-table-top-with-blur-of-people-in-coffee-shop-or-cafe-restaurant-background/203750178" class="d-block w-100" alt="...">
+            <img src= "https://as2.ftcdn.net/v2/jpg/00/40/07/07/1000_F_40070703_GdVAUOlKAVvQKfocY3rVUYvOO2RzwEM3.jpg" class="d-block w-100" alt="...">
 
             <div class="carousel-caption">
                 <h1  >ABOUT-US</h1>
@@ -31,7 +31,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://stock.adobe.com/images/interior-of-modern-restaurant/709992219" class="d-block w-100" alt="...">
+            <img src="https://as2.ftcdn.net/v2/jpg/00/40/07/07/1000_F_40070703_GdVAUOlKAVvQKfocY3rVUYvOO2RzwEM3.jpg" class="d-block w-100" alt="...">
 
             <div class="carousel-caption  ">
                 <h1 >ABOUT-US</h1>

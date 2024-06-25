@@ -141,6 +141,7 @@ section{
   color: #fff;
   font-size: 18px;
   border-radius: 80px;
+  margin-left: -20px;
 }
 .btn button:hover{
   color: #dbd4d4c2;
