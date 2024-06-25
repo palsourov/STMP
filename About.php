@@ -19,7 +19,7 @@
 
             <div class="carousel-caption">
                 <h1 data-aos="fade-up" data-aos-offset="250">ABOUT-US</h1>
-                <hr class="h" >
+                <hr class="h">
             </div>
           </div>
           <div class="carousel-item">
@@ -27,7 +27,7 @@
 
             <div class="carousel-caption">
                 <h1  >ABOUT-US</h1>
-                <hr class="h" >
+                <hr class="h">
             </div>
           </div>
           <div class="carousel-item">

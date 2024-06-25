@@ -75,7 +75,7 @@ body {
 /*banner slider start*/
 
 .carousel-item img{
-  height: 100vh;
+  height: 80vh;
   width: 100%;
  
 }
@@ -88,16 +88,17 @@ body {
   font-size: 54px;
   letter-spacing: 4px;
   font-weight: 795;
-  text-shadow: 1px 5px 5px rgb(220, 95, 18);
+  text-shadow: 1px 5px 5px rgb(238, 48, 14);
 }
 .carousel-caption h1:hover{
-  text-shadow: 5px  4px 5px rgb(238, 48, 14);
+  text-shadow: 5px  4px 5px rgb(220, 95, 18);
   font-weight: 798;
 
 }
 .carousel-caption .h{
-  width: 45%;
+  width: 50%;
   margin: auto;
+  border-bottom: 4px solid gray;
 
 }
 
