@@ -96,9 +96,9 @@ body {
 
 }
 .carousel-caption .h{
-  width: 50%;
+  width: 40%;
   margin: auto;
-  border-bottom: 4px solid gray;
+  border-bottom: 10px solid gray;
 
 }
 
