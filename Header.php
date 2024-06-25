@@ -65,8 +65,8 @@
           <a class="nav-link" >Contact</a>
         </li>
       </ul>
-      <form class="d-flex" role="search">
-           <button type="button" class=" login btn">Login</button>
+      <form class="d-flex " role="search">
+           <button type="button btn" class=" login">Login</button>
       </form>
     </div>
           <!-- ManuBar end-->
