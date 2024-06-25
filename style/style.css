@@ -77,12 +77,9 @@ body {
   height: 95vh;
   width: 100%;
 }
-<<<<<<< HEAD
 .head{
   color: white;
 }
-.carousel-caption{
-
 .carousel-caption{
   text-align: center;
   margin-bottom: 180px;
@@ -94,13 +91,9 @@ body {
   font-weight: 795;
   text-shadow: 1px 5px 5px rgb(220, 95, 18);
 }
-<<<<<<< HEAD
+
 .carousel-caption h1:hover{
   text-shadow: 5px  4px 5px rgb(239, 51, 18);
-=======
-.carousel-caption h1:hover {
-  text-shadow: 5px 4px 5px rgb(238, 48, 14);
->>>>>>> a1b46bc6ee257f4000b4974881fa23b4dced92c5
   font-weight: 798;
 }
 .carousel-caption .h {
