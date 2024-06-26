@@ -20,6 +20,13 @@ body {
 }
 .dropdown-menu {
   background:rgba(220, 95, 18, 0.46);
+  
+}
+.dropdown li a {
+  list-style: none;
+  text-decoration: none;
+  line-height: 49px;
+  font-size: 18px;
 }
 .logo {
   font-size: 30px;

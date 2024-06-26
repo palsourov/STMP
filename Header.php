@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>STMP</title>
+    <title>FoodChart</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -27,7 +27,7 @@
   <div class="container">
      <!-- logo -->
     <a class="navbar-brand logo" href="#">
-        <h2>STMP.</h2>
+        <h2>Food Chart.</h2>
     </a>
     <!-- logo end -->
      <!-- toggler button -->
@@ -54,12 +54,11 @@
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Food
           </a>
-          <ul class="dropdown-menu ">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
-          </ul>
+          <ul class="dropdown-menu  dropdown">
+                 <li><a href="">Menu List</a></li>
+                 <li><a href="">Special Menu</a></li>
+                 <li><a href="">Bengoli Food</a></li>
+           </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link" >Contact</a>
