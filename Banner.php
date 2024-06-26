@@ -87,7 +87,7 @@
 
 <!--about section start-->
 
-<section class="about  " id="About">
+<section class="about pb-2" id="About">
       <div class="container">
   
         <div class="text-center">
@@ -104,7 +104,9 @@
             </p>
 
             <div class="bt">
-              <button data-aos="fade-up">Read More..</button>
+
+              <a href="About.php"><button data-aos="fade-up">Read More..</button></a>
+              
             </div>
 
           </div>

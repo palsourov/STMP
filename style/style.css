@@ -216,6 +216,7 @@ section {
   height: 100%;
   width: 100%;
   padding-top: 50px;
+  
 }
 .about .row{
   margin-left: 20px;
@@ -268,5 +269,6 @@ section {
 .about img{
   margin-top: 40px;
   margin-left: 35px;
+ 
  
 }
