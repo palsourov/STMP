@@ -60,9 +60,7 @@
                   Situated in the vibrant community of Sylhet, SRMP has been a cornerstone of authentic Sylheti cuisine since its inception. Known for its flavorful dishes and warm ambiance, SRMP captures the essence of Sylhet’s rich culinary traditions.
                    SRMP was founded in 1995 by Rashid Ahmed, a devoted chef with a passion for sharing the distinctive flavors of Sylhet with locals and visitors alike. Inspired by the rich culinary heritage of his hometown, Rashid envisioned a place where people could savor traditional Sylheti dishes made from time-honored recipes.
                 </p>
-                <div class="bt">
-                  <button data-aos="fade-up">Read More</button>
-                </div>
+                
             </div>
         </div>
       </section>
