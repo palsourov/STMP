@@ -217,3 +217,12 @@ section {
   box-shadow: 0 -5px 8px rgba(0, 0, 0, 0.3);
 }
 /* registration_page end */
+
+/* menu list start*/
+  
+   .FoodList {
+       margin-top: 100px;
+       background: #e5db9f24;
+       margin-top: 75px;
+       box-shadow: ;
+   }
