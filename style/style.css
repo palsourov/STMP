@@ -221,8 +221,12 @@ section {
 /* menu list start*/
   
    .FoodList {
-       margin-top: 100px;
-       background: #e5db9f24;
-       margin-top: 75px;
-       box-shadow: ;
+    background: #e5db9f24;
+    margin-top: 140px;
+    box-shadow: 1px 4px 7px 4px #270a8e4f;
+    padding-bottom: 40px;
+    padding-left: 30px;
+   }
+   .card{
+      margin-top: 100px;
    }
