@@ -57,8 +57,10 @@
                 <span  class="  text-danger">Bangladeshi Restaurant</span>
                 <h1 data-aos="fade-up" class="py-3">OUR STORY</h1>
                 <p data-aos="fade-up" class="t-center">
-                  Situated in the vibrant community of Sylhet, SRMP has been a cornerstone of authentic Sylheti cuisine since its inception. Known for its flavorful dishes and warm ambiance, SRMP captures the essence of Sylhet’s rich culinary traditions.
-                   SRMP was founded in 1995 by Rashid Ahmed, a devoted chef with a passion for sharing the distinctive flavors of Sylhet with locals and visitors alike. Inspired by the rich culinary heritage of his hometown, Rashid envisioned a place where people could savor traditional Sylheti dishes made from time-honored recipes.
+                STMP Restaurant was established on June 15, 2005, by renowned chef and culinary enthusiast Rashid Ahmed. Inspired by the rich culinary heritage of Sylhet, Rashid aimed to create a dining experience that would bring the authentic flavors of his homeland to the heart of the city.
+                STMP Restaurant regularly hosts cultural events, such as traditional Sylheti music and dance performances, fostering a sense of community and cultural pride. By participating in and supporting local charities and community initiatives, the restaurant strengthens its ties with the community.
+                STMP Restaurant regularly hosts cultural events, such as traditional Sylheti music and dance performances, fostering a sense of community and cultural pride. The menu includes healthy and balanced meal options, catering to health-conscious diners. The restaurant introduces seasonal menus that highlight the best of Sylheti cuisine using seasonal ingredients, keeping the dining experience fresh and exciting.Easy online reservation system allows customers to book tables conveniently.Efficient home delivery service ensures that customers can enjoy their favorite dishes from the comfort of their homes.Commitment to eco-friendly practices, such as reducing waste, using biodegradable packaging, and sourcing sustainable ingredients, contributes to environmental conservation. STMP Restaurant offers numerous benefits to its customers, staff, and the wider community. Whether you’re a food enthusiast looking for traditional dishes, a family wanting a welcoming place to dine, or someone interested in cultural experiences, STMP Restaurant has something special to offer.
+                 
                 </p>
                 
             </div>
