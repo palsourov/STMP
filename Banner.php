@@ -41,6 +41,48 @@
 
 
 <!-- banner section end  -->
+
+<!--about section start-->
+
+<section class="about pb-2" id="About">
+      <div class="container">
+  
+        <div class="text-center">
+          <h1 data-aos="zoom-in-up" > ABOUT <span >US</span></h1>
+          <hr class="w-25 m-auto ">
+        </div>
+
+        <div class="row my-5">
+           <div class="col-sm-12 col-md-6 col-lg-6" data-aos="fade-up-right">
+            <h2> What Makes Our <span >STMP</span> Restaurant Special?</h2>
+            <p data-aos="fade-up-right">
+              STMP Restaurant offers a diverse menu featuring authentic Sylheti dishes, prepared using traditional recipes and high-quality ingredients. This ensures a true taste of Sylhet, appealing to both locals and tourists.Commitment to using fresh, locally sourced ingredients enhances the flavor and nutritional value of the meals.At STMP Restaurant, customers are treated with genuine Sylheti hospitality, making each dining experience memorable.The restaurant is designed to provide a cozy and welcoming environment, perfect for family gatherings, business meetings, or casual dining......
+              
+            </p>
+
+            <div class="bt">
+
+              <a href="About.php"><button data-aos="fade-up">Read More..</button></a>
+              
+            </div>
+
+          </div>
+
+           <div class="col-sm-12 col-md-6 col-lg-6 " data-aos="fade-up-left">
+
+            <img src="https://cdn.vox-cdn.com/thumbor/5d_RtADj8ncnVqh-afV3mU-XQv0=/0x0:1600x1067/1200x900/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/57698831/51951042270_78ea1e8590_h.7.jpg"  width="90%" class="img-fluid img-thumbnail">
+            
+           </div>
+
+        </div>
+
+    </div>
+   </section>
+
+   <!--about section end-->
+
+
+
    
 <?php 
    require_once("Footer.php")

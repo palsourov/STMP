@@ -81,12 +81,11 @@ body {
 
 /*footer end*/
 
-/*banner slider start*/
-
 .head{
   color: white; 
 }
 
+/*About US start*/
 .carousel-item img {
   height: 100vh;
   width: 100%;
@@ -115,12 +114,11 @@ body {
   margin: auto;
   border-bottom: 6px solid rgb(241, 169, 26);
 }
-section {
-  height: 95vh;
-  width: 100%;
-}
+
 .story {
   background-image: url(https://themewagon.github.io/pato/images/icons/pattern2.png);
+  height: 100%;
+  width: 100%;
 }
 .story span {
   font-style: italic;
@@ -134,9 +132,13 @@ section {
   font-weight: bold;
   letter-spacing: 3px;
 }
-.story .t-center {
-  margin-left: 22%;
-  margin-right: 20%;
+.story p{
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 17px;   
+  letter-spacing: 0.5px;
+  font-style: italic;
+
 }
 .bt button {
   height: 50px;
@@ -218,6 +220,7 @@ section {
 }
 /* registration_page end */
 
+<<<<<<< HEAD
 /* menu list start*/
   
    .FoodList {
@@ -230,3 +233,68 @@ section {
    .card{
       margin-top: 100px;
    }
+=======
+/*about section start*/
+.about{
+  background-color: rgb(236, 228, 221);
+  height: 100%;
+  width: 100%;
+  padding-top: 50px;
+  
+}
+.about .row{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.about h1{
+  font-style: oblique;
+}
+.about h1 span{
+  color: rgb(255, 115, 0);
+}
+.about hr{
+  border-bottom: 3px solid rgb(241, 169, 26);
+}
+.about h2{
+  margin-left: 15px;
+  font-style: italic;
+  font-size: 22px;
+}
+.about h2 span{
+  color: rgb(255, 115, 0);
+}
+.about p{
+  margin-top: 18px;
+  font-size: 17px;
+  margin-left: 14px;
+  letter-spacing: 0.5px;
+  font-style: italic;
+ 
+}
+.bt button{
+  height: 45px;
+  width: 150px;
+  border: none;
+  background-color: rgb(234, 118, 72);
+  color: #fff;
+  font-size: 17px;
+  border-radius: 80px;
+  margin-left: 14px;
+  margin-top: 10px;
+
+}
+.bt button:hover{
+  color: #413619c2;
+  transition: 0.2s;
+  outline:none;
+  border: none;
+}
+
+.about img{
+  margin-top: 40px;
+  margin-left: 35px;
+ 
+ 
+}
+/*about section end*/
+>>>>>>> cb885a4f03a3d78396fd755e388eefcd6648c1e2
